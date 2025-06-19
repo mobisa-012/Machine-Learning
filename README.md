@@ -1,2 +1,2 @@
 # Machine-Learning
-My ML practices go here: using Jupyter Notebooks, Pythin, Pandas, NumPy, Seaborn and many more Pythin libraries I use, R included.
+My ML practices go here: using Jupyter Notebooks, Python, Pandas, NumPy, Seaborn and many more Python libraries I use, R included.
